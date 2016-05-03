@@ -1,0 +1,35 @@
+.classbox{
+  @include fullscreen();
+  background: #fff;
+}
+.class0{
+
+    width: 100%;
+    @include flexbox(flex);
+    margin-top: .1rem;
+    li {
+
+      i{
+        display: block;
+        text-align: center;
+        font-size: .16rem;
+        color: #949494;
+
+      }
+      @include box-sizing(border-box);
+      &:nth-child(2),&:nth-child(4),&:nth-child(6) {
+        background: #fff;
+        @include flex(1)
+
+        img{
+          width: 100%;
+        }
+
+      }
+      &:nth-child(1),&:nth-child(3),&:nth-child(5),&:nth-child(7) {
+        width: .1rem;
+      }
+
+    }
+
+}

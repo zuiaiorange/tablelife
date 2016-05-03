@@ -1,0 +1,127 @@
+<header >
+  <div class="yo-ico">上海&#xe65e;</div>
+  <div><img src="./././img/home_logo.png"></div>
+  <div class="yo-ico">&#x348d;</div>
+</header>
+
+
+<div  spa-widget="scroll" class="box0">
+  <div>
+    <section id="banner">
+      <div class="swiper-container" id="shouye-swiper">
+           <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img src="/tablelife/img/banner1.jpg">
+              </div>
+              <div class="swiper-slide">
+                <img src="/tablelife/img/banner1.jpg">
+              </div>
+              <div class="swiper-slide">
+                <img src="/tablelife/img/banner1.jpg">
+              </div>
+              <div class="swiper-slide">
+                <img src="/tablelife/img/banner1.jpg">
+                <div id="startBtn"></div>
+              </div>
+            </div>
+            <div class="swiper-pagination" ></div>
+        </div>
+
+    </section>
+    <nav>
+      <ul>
+        <li action-type="show.newshop">
+          <i class="yo-ico">&#xe6b0;</i>
+          <b>新品上架</b>
+        </li>
+        <li action-type="show.shipu">
+          <i class="yo-ico">&#xe634;</i>
+          <b>壹桌食谱</b>
+        </li>
+        <li action-type="show.youhui">
+          <i class="yo-ico">&#xe611;</i>
+          <b>优惠专区</b>
+        </li>
+        <li action-type="show.msjshuo">
+          <i class="yo-ico">&#xe627;</i>
+          <b>美食家说</b>
+
+
+      </ul>
+    </nav>
+    <section id="shop">
+      <ul class="shop1">
+        <li></li>
+        <li>
+          <img src="/tablelife/img/shop1.jpg">
+        </li>
+        <li></li>
+      </ul>
+      <ul class="shop2">
+        <li></li>
+        <li>
+          <img src="/tablelife/img/shop2.png">
+        </li>
+        <li></li>
+        <li>
+          <img src="/tablelife/img/shop3.png">
+        </li>
+        <li></li>
+      </ul>
+
+
+      <h2>&nbsp;&nbsp;&nbsp;&nbsp;本周销量排行榜</h2>
+      <ul class="shop2 shop3" ms-repeat="datalist">
+        <li></li>
+        <li>
+          <img ms-src="el.img"/>
+          <h4 ms-text="el.name"></h4>
+          <br/>
+          <h5 ms-text="el.zhizuo"></h5>
+          <h6 ms-text="el.guige">规格：</h6>
+          <p ms-text="el.chandi">产地： </p>
+          <i ms-text="el.yuanjia"></i><br/>
+          <b ms-text="el.xianjia"></b><span class="yo-ico">&#xe659;</span>
+        </li>
+        <li></li>
+        <li>
+          <img ms-src="el.img2"/>
+          <h4 ms-text="el.name2"></h4>
+          <br/>
+          <h5 ms-text="el.zhizuo2"></h5>
+          <h6 ms-text="el.guige2">规格：</h6>
+          <p ms-text="el.chandi2">产地： </p>
+          <i ms-text="el.yuanjia2"></i><br/>
+          <b ms-text="el.xianjia2"></b><span class="yo-ico">&#xe659;</span>
+        </li>
+        <li></li>
+      </ul>
+      <ul class="shop2 shop3">
+        <li></li>
+        <li>
+          <img src="/tablelife/img/shop-1.png">
+          <h4>姜蓉鸡</h4>
+          <br/>
+          <h5>客家古法配方制作</h5>
+          <h6>规格：700g</h6>
+          <p>产地：广东云浮</p>
+          <i>￥99.00</i><br/>
+          <b>￥75.00</b><span class="yo-ico">&#xe659;</span>
+        </li>
+        <li></li>
+        <li>
+          <img src="/tablelife/img/shop-1.png">
+          <h4>姜蓉鸡</h4>
+          <br/>
+          <h5>客家古法配方制作</h5>
+          <h6>规格：700g</h6>
+          <p>产地：广东云浮</p>
+          <i>￥99.00</i><br/>
+          <b>￥75.00</b><span class="yo-ico">&#xe659;</span>
+        </li>
+        <li></li>
+      </ul>
+      <div class="bai"></div>
+    </section>
+  </div>
+</div>

@@ -1,0 +1,57 @@
+{
+  "ret": 0,
+  "errorcode": "",
+  "data": [{
+      "img": "/app/images/foodmenu-mainfood.png",
+      "node": "主食"
+    },
+    {
+      "img": "/app/images/foodmenu-meateag.png",
+      "node": "肉蛋类"
+    },
+    {
+      "img": "/app/images/foodmenu-bean.png",
+      "node": "大豆及制品"
+    },
+    {
+      "img": "/app/images/foodmenu-vegetables.png",
+      "node": "蔬菜菌藻类"
+    },
+    {
+      "img": "/app/images/foodmenu-fruit.png",
+      "node": "水果类"
+    },
+    {
+      "img": "/app/images/foodmenu-milk.png",
+      "node": "奶类"
+    },
+    {
+      "img": "/app/images/foodmenu-oil.png",
+      "node": "油脂类"
+    },
+    {
+      "img": "/app/images/foodmenu-net.png",
+      "node": "坚果类"
+    },
+    {
+      "img": "/app/images/foodmenu-relish.png",
+      "node": "调味品"
+    },
+    {
+      "img": "/app/images/foodmenu-drink.png",
+      "node": "饮料类"
+    },
+    {
+      "img": "/app/images/foodmenu-snacks.png",
+      "node": "零食及点心"
+    },
+    {
+      "img": "/app/images/foodmenu-other.png",
+      "node": "其他"
+    },
+    {
+      "img": "/app/images/foodmenu-other.png",
+      "node": "其他"
+    }
+  ]
+}

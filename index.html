@@ -2,12 +2,20 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Fekit course</title>
+  <title>app</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <link rel="stylesheet" href="http://localhost/aidaguoguo/prd/styles/usage/app.css">
+  <link rel="stylesheet" href="/app/prd/styles/usage/app.css">
 </head>
 <body>
 
-  <script src="http://localhost/aidaguoguo/prd/scripts/app.js"></script>
+  <script src="/app/prd/scripts/app.js"></script>
 </body>
+<script>
+  document.ontouchmove = function(e) {
+        if (e.target.tagName.toUpperCase() !== 'IFRAME') {
+            e.preventDefault();
+        }
+    };
+
+</script>
 </html>

@@ -1,0 +1,118 @@
+.m-index {
+  >.m-index-body{
+
+        .gonglue{
+          width:100%;
+          height: 100%;
+          @include flexbox(flex);
+          @include flex-direction(column);
+          >header{
+            width:100%;
+            height:.52rem;
+            background: #ff6000;
+            color: rgba(255,255,255,.8);
+            font-size: .18rem;
+            text-align: center;
+            line-height: .52rem;
+          }
+          >section{
+            @include flex(1);
+            @include flexbox(flex);
+            @include flex-direction(column);
+            width: 100%;
+
+            .qxwatch{
+              @include flexbox(flex);
+              position: relative;
+              width:100%;
+               height: .44rem ;
+              background: #fff;
+
+              >div{
+                  position: absolute;
+                  width: 50%;
+                  height:.02rem;
+                  bottom:0;
+                  left:0;
+                  background-color:  #ff6000;
+              }
+              >i{
+
+                display: block;
+                text-align: center;
+                line-height: .44rem;
+                color:rgba(51,51,51,.7);
+
+                &:nth-of-type(1){
+                  @include flex(1);
+                  @include border(0 2px 0 0,#ececec);
+                  }
+                &:nth-of-type(2){
+                    @include flex(1);
+                      @include border(0 0 0 2px,#ececec);
+
+                  }
+
+              }
+              >i.active{
+              color:rgb(51,51,51)
+              }
+            }
+            >section{
+              @include flex(1);
+              position: relative;
+              width:100%;
+             overflow: hidden;
+            .gonglue-swiper{
+              position: absolute;
+              padding-bottom: .59rem;
+              width:100%;
+              height:100%;
+              .swiper-slide{
+                width:100%;
+                 >ul{
+                width:100%;
+                >li{
+                  @include box-sizing(border-box);
+                  padding-left:.13rem;
+                  padding-right: .13rem;
+                  background-color: #fff;
+                  width:100%;
+                  margin-top:.05rem;
+                  >h3{
+                    padding: .1rem 0;
+                    width:100%;
+                    line-height: .2rem;
+                    font-size: .14rem;
+                  }
+                  >div{
+                    width:100%;
+                    &:nth-of-type(1){
+                      width:100%;
+                      img{
+                        width:100%;
+                      }
+                    }
+                    &:nth-of-type(2){
+                      height:.38rem;
+                      font-size: .14rem;
+                      line-height: .38rem;
+                    }
+                  }
+
+                 }
+              }
+              }
+
+
+
+
+            }
+
+            }
+
+          }
+        }
+
+  }
+}

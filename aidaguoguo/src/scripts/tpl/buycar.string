@@ -1,0 +1,168 @@
+<div class="m-buycar">
+  <header>
+      <p>
+        购物车
+      </p>
+      <span action-type="goto.home">编辑</span>
+  </header>
+  <section >
+
+    <div spa-widget="scroll">
+    <ul>
+      <li>
+        <div class="">
+            <input type="checkbox" name="name" value="">
+        </div>
+        <div class="">
+            <img src="/aidaguoguo/images/goodsCar.png" alt="" />
+        </div>
+        <div class="">
+            <h3>台湾金钻凤梨1个装</h3>
+            <div class="">
+                <span>1个/份</span>
+                <span>
+                  <i>-</i>
+                  <input type="text" value="1">
+                  <i>+</i>
+                </span>
+            </div>
+            <div class="">
+                <span>￥24.90</span><span>￥28.0</span>
+            </div>
+        </div>
+      </li>
+      <li>
+        <div class="">
+            <input type="checkbox" name="name" value="">
+        </div>
+        <div class="">
+            <img src="/aidaguoguo/images/goodsCar.png" alt="" />
+        </div>
+        <div class="">
+            <h3>台湾金钻凤梨1个装</h3>
+            <div class="">
+                <span>1个/份</span>
+                <span>
+                  <i>-</i>
+                  <input type="text" value="1">
+                  <i>+</i>
+                </span>
+            </div>
+            <div class="">
+                <span>￥24.90</span><span>￥28.0</span>
+            </div>
+        </div>
+      </li>
+      <li>
+        <div class="">
+            <input type="checkbox" name="name" value="">
+        </div>
+        <div class="">
+            <img src="/aidaguoguo/images/goodsCar.png" alt="" />
+        </div>
+        <div class="">
+            <h3>台湾金钻凤梨1个装</h3>
+            <div class="">
+                <span>1个/份</span>
+                <span>
+                  <i>-</i>
+                  <input type="text" value="1">
+                  <i>+</i>
+                </span>
+            </div>
+            <div class="">
+                <span>￥24.90</span><span>￥28.0</span>
+            </div>
+        </div>
+      </li>
+      <li>
+        <div class="">
+            <input type="checkbox" name="name" value="">
+        </div>
+        <div class="">
+            <img src="/aidaguoguo/images/goodsCar.png" alt="" />
+        </div>
+        <div class="">
+            <h3>台湾金钻凤梨1个装</h3>
+            <div class="">
+                <span>1个/份</span>
+                <span>
+                  <i>-</i>
+                  <input type="text" value="1">
+                  <i>+</i>
+                </span>
+            </div>
+            <div class="">
+                <span>￥24.90</span><span>￥28.0</span>
+            </div>
+        </div>
+      </li>
+      <li>
+        <div class="">
+            <input type="checkbox" name="name" value="">
+        </div>
+        <div class="">
+            <img src="/aidaguoguo/images/goodsCar.png" alt="" />
+        </div>
+        <div class="">
+            <h3>台湾金钻凤梨1个装</h3>
+            <div class="">
+                <span>1个/份</span>
+                <span>
+                  <i>-</i>
+                  <input type="text" value="1">
+                  <i>+</i>
+                </span>
+            </div>
+            <div class="">
+                <span>￥24.90</span><span>￥28.0</span>
+            </div>
+        </div>
+      </li>
+      <li>
+        <div class="">
+            <input type="checkbox" name="name" value="">
+        </div>
+        <div class="">
+            <img src="/aidaguoguo/images/goodsCar.png" alt="" />
+        </div>
+        <div class="">
+            <h3>台湾金钻凤梨1个装</h3>
+            <div class="">
+                <span>1个/份</span>
+                <span>
+                  <i>-</i>
+                  <input type="text" value="1">
+                  <i>+</i>
+                </span>
+            </div>
+            <div class="">
+                <span>￥24.90</span><span>￥28.0</span>
+            </div>
+        </div>
+      </li>
+    </ul>
+    </div>
+    <div>
+        <div>
+          <input type="checkbox"><span>全选</span>
+        </div>
+        <div>
+              <p>总计: <span>0.00</span></p>
+              <p>节省： <span>0.00</span></p>
+        </div>
+        <div>
+          去结算
+        </div>
+
+
+    </div>
+  </section>
+
+
+
+
+
+
+
+</div>

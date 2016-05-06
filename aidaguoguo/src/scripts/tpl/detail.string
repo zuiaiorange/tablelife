@@ -1,0 +1,94 @@
+<div class="m-detail">
+  <header>
+      <div class="yo-ico" action-type="toHide">&#xe60a;</div>
+      <div>商品详情</div>
+      <div class="yo-ico">&#xe865;</div>
+  </header>
+  <section spa-widget="scroll">
+    <div class="detail-scroll">
+
+      <div class="swiper-container detail-swiper" >
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <img src="/aidaguoguo/images/goodlist/detail0.jpg"/>
+          </div>
+          <div class="swiper-slide">
+            <img src="/aidaguoguo/images/goodlist/detail1.jpg"/>
+          </div>
+          <div class="swiper-slide">
+            <img src="/aidaguoguo/images/goodlist/detail2.jpg"/>
+          </div>
+          <div class="swiper-slide">
+            <img src="/aidaguoguo/images/goodlist/detail3.jpg"/>
+          </div>
+        </div>
+        <div class="swiper-pagination"></div>
+      </div>
+
+
+
+      <div class="goods-price-wrap">
+        <h3>【返红包】海南金煌芒6斤装（煌芒6斤装单果重约1400g）</h3>
+        <p>￥58.90</p>
+        <p><span>市场价：</span><span>￥88.00</span><span>规格：</span><span>3000/份</span></p>
+        <p><span>配送费：</span><span>￥0</span></p>
+        <p><span>购买理由</span><span>极品佳芒鲜采直供</span></p>
+      </div>
+      <div class="goods-detail">
+        <h3>基本参数</h3>
+        <p><span>品牌</span><span>金煌芒</span></p>
+        <p><span>产地</span><span>金煌芒</span></p>
+        <p><span>甜度</span><span>金煌芒</span></p>
+        <p><span>特性</span><span>金煌芒</span></p>
+      </div>
+      <div class="goods-pic">
+          <div>
+            <img src="/aidaguoguo/images/goodPic/1.gif" alt="">
+          </div>
+          <div>
+            <img src="/aidaguoguo/images/goodPic/2.gif" alt="">
+          </div>
+          <div>
+            <img src="/aidaguoguo/images/goodPic/3.jpg" alt="">
+          </div>
+          <div>
+            <img src="/aidaguoguo/images/goodPic/4.jpg" alt="">
+          </div>
+          <div>
+            <img src="/aidaguoguo/images/goodPic/5.jpg" alt="">
+          </div>
+          <div>
+            <img src="/aidaguoguo/images/goodPic/6.jpg" alt="">
+          </div>
+          <div>
+            <img src="/aidaguoguo/images/goodPic/7.png" alt="">
+          </div>
+          <div>
+            <img src="/aidaguoguo/images/goodPic/8.png" alt="">
+          </div>
+
+
+      </div>
+    </div>
+
+
+
+
+  </section>
+  <footer>
+    <ul>
+        <li  action-type="openBuyCar"><img src="/aidaguoguo/images/icon_shopcart.png"/></li>
+        <li></li>
+        <li>
+          <div>
+              <i class="rduce">-</i>
+              <input type="text" value="1">
+              <i class="add">+</i>
+          </div>
+        </li>
+        <li>加入购物车</li>
+    </ul>
+  </footer>
+
+
+</div>

@@ -1,0 +1,136 @@
+<div class="m-home">
+  <header>
+    <div class="yo-ico">&#xe604;</div>
+    <div class="address">北京市海淀区宝胜北里天丰利商城4层dfafadfadfafda</div>
+    <div class="yo-ico">&#xe602;</div>
+  </header>
+    <section spa-widget="scroll">
+        <div>
+          <div class="swiper-container">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide" >
+                  <a href="#"><img src="/aidaguoguo/images/banner/banner.jpg"/></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#"><img src="/aidaguoguo/images/banner/banner.png"/></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#"><img src="/aidaguoguo/images/banner/banner.jpg"/></a>
+                </div>
+              </div>
+               <div class="swiper-pagination"></div>
+          </div>
+          <div class="newPerWrap">
+            <div action-type="detail-page" >
+            <i class="yo-ico">&#xe783;</i>
+              <b>邀请好友</b>
+            </div>
+            <div>
+              <i class="yo-ico">&#xe622;</i>
+              <b>果果攻略</b>
+            </div>
+            <div>
+              <i class="yo-ico">&#xe646;</i>
+              <b>新用户专享</b>
+            </div>
+            <div>
+              <i class="yo-ico"><img src="/aidaguoguo/images/rocket.png"/></i>
+              <b>我的订单</b>
+            </div>
+          </div>
+          <div class="promoteImg">
+            <li>
+              <img src="/aidaguoguo/images/apple.png"/>
+            </li>
+            <li></li>
+            <li>
+              <div>
+                <img src="/aidaguoguo/images/mugua.png"/>
+              </div>
+              <div></div>
+              <div>
+                <img src="/aidaguoguo/images/mangguo.png"/>
+              </div>
+            </li>
+          </div>
+          <div class="friuteWrap">
+            <div>
+                <i>果果头条</i>
+                <div>
+                  <ul>
+                    <li><a href="#">美女和黄脸婆之间只差一个孩子的距离</a></li>
+                    <li><a href="#">你和小鲜肉之间只差30公斤</a></li>
+                    <li><a href="#">呵呵呵呵呵呵呵呵而后额呵呵呵呵呵</a></li>
+                    <li><a href="#">美女和黄脸婆之间只差一个孩子的距离</a></li>
+                  </ul>
+                </div>
+            </div>
+            <li>
+                <div class="goods-wrap">
+                  <img src="/aidaguoguo/images/goodlist/6.jpg"/>
+                </div>
+                <div class="goods-dra">
+                    <ul>
+                        <li><h3>海南白玉龙蜜瓜1粒</h3></li>
+                        <li>1个/份</li>
+                        <li><i>￥22.00</i><i>￥17.90</i></li>
+                        <li><img src="/aidaguoguo/images/icon_shopcart.png"/></li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <div class="goods-wrap">
+                  <img src="/aidaguoguo/images/goodlist/5.jpg"/>
+                </div>
+                <div class="goods-dra">
+                    <ul>
+                        <li><h3>海南白金煌芒约3斤装</h3></li>
+                        <li>1500g/份</li>
+                        <li><i>￥35.00</i><i>￥26.90</i></li>
+                        <li><img src="/aidaguoguo/images/icon_shopcart.png"/></li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <div class="goods-wrap">
+                  <img src="/aidaguoguo/images/goodlist/1.png"/>
+                </div>
+                <div class="goods-dra">
+                    <ul>
+                        <li><h3>海南红心木瓜2个装</h3></li>
+                        <li>2个/份</li>
+                        <li><i>￥18.00</i><i>￥12.90</i></li>
+                        <li><img src="/aidaguoguo/images/icon_shopcart.png"/></li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <div class="goods-wrap">
+                  <img src="/aidaguoguo/images/goodlist/2.png"/>
+                </div>
+                <div class="goods-dra">
+                    <ul>
+                        <li><h3>海南白玉龙蜜瓜1粒</h3></li>
+                        <li>1个/份</li>
+                        <li><i>￥22.00</i><i>￥17.90</i></li>
+                        <li><img src="/aidaguoguo/images/icon_shopcart.png"/></li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <div class="goods-wrap">
+                  <img src="/aidaguoguo/images/goodlist/3.png"/>
+                </div>
+                <div class="goods-dra">
+                    <ul>
+                        <li><h3>海南白玉龙蜜瓜1粒</h3></li>
+                        <li>1个/份</li>
+                        <li><i>￥22.00</i><i>￥17.90</i></li>
+                        <li><img src="/aidaguoguo/images/icon_shopcart.png"/></li>
+                    </ul>
+                </div>
+            </li>
+          </div>
+        </div>
+    </section>
+</div>

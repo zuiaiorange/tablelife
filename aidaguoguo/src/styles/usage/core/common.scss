@@ -1,0 +1,23 @@
+$font-heiti-light: Heiti SC Light, Helvetica Neue, Helvetica, STHeiTi, sans-serif;
+$font-heiti-medium: Heiti SC Medium, Heiti SC Light, Helvetica Neue, Helvetica, STHeiTi, sans-serif;
+
+@font-face {
+  font-family: yofont;
+  src: url("/aidaguoguo/fonts/iconfont.woff") format("woff"), url("/aidaguoguo/fonts/iconfont.ttf") format("truetype");
+}
+@font-face {
+  font-family: yofont;
+  src: url("/aidaguoguo/fonts/iconfont1.woff") format("woff"), url("/aidaguoguo/fonts/iconfont1.ttf") format("truetype");
+}
+@font-face {
+  font-family: yofont;
+  src: url("/aidaguoguo/fonts/iconfont2.woff") format("woff"), url("/aidaguoguo/fonts/iconfont2.ttf") format("truetype");
+}
+@font-face {
+  font-family: yofont;
+  src: url("/aidaguoguo/fonts/iconfont3.woff") format("woff"), url("/aidaguoguo/fonts/iconfont3.ttf") format("truetype");
+}
+
+body {
+	background-color: #fff !important;
+}
